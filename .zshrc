@@ -137,3 +137,6 @@ fi
 if [[ -f ~/.config/zsh/custom.conf ]]; then
   source ~/.config/zsh/custom.conf
 fi
+
+# Display Pokemon
+# pokemon-colorscripts --no-title -r 1,3,6
